@@ -1,16 +1,15 @@
 import React from "react";
 
-const Card = () => {
+const Card = (props) => {
+  console.log(props.item);
+  const { name, img, dis } = props.item;
   return (
-    <div className="col">
+    <div className="col rounded">
       <div className="card">
-        <img src="..." className="card-img-top" alt="..." />
+        <img src={img} className="card-img-top" alt="..." />
         <div className="card-body">
-          <h5 className="card-title">Card title</h5>
-          <p className="card-text">
-            This is a longer card with supporting text below as a natural
-            lead-in to additional content. This content is a little bit longer.
-          </p>
+          <h5 className="card-title">{name}</h5>
+          <p className="card-text">{dis}</p>
         </div>
       </div>
     </div>

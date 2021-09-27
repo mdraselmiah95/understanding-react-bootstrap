@@ -4,12 +4,12 @@ const Header = () => {
   return (
     <div>
       <nav className="navbar navbar-expand-lg navbar-light bg-light">
-        <div class="container-fluid">
-          <a class="navbar-brand" href="/new">
+        <div className="container-fluid">
+          <a className="navbar-brand" href="/new">
             Navbar
           </a>
           <button
-            class="navbar-toggler"
+            className="navbar-toggler"
             type="button"
             data-bs-toggle="collapse"
             data-bs-target="#navbarSupportedContent"
@@ -17,23 +17,23 @@ const Header = () => {
             aria-expanded="false"
             aria-label="Toggle navigation"
           >
-            <span class="navbar-toggler-icon"></span>
+            <span className="navbar-toggler-icon"></span>
           </button>
-          <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-              <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="/home">
+          <div className="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul className="navbar-nav me-auto mb-2 mb-lg-0">
+              <li className="nav-item">
+                <a className="nav-link active" aria-current="page" href="/home">
                   Home
                 </a>
               </li>
-              <li class="nav-item">
-                <a class="nav-link" href="/new">
+              <li className="nav-item">
+                <a className="nav-link" href="/new">
                   Link
                 </a>
               </li>
-              <li class="nav-item dropdown">
+              <li className="nav-item dropdown">
                 <a
-                  class="nav-link dropdown-toggle"
+                  className="nav-link dropdown-toggle"
                   href="/new"
                   id="navbarDropdown"
                   role="button"
@@ -42,33 +42,33 @@ const Header = () => {
                 >
                   Dropdown
                 </a>
-                <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <ul className="dropdown-menu" aria-labelledby="navbarDropdown">
                   <li>
-                    <a class="dropdown-item" href="/new">
+                    <a className="dropdown-item" href="/new">
                       Action
                     </a>
                   </li>
                   <li>
-                    <a class="dropdown-item" href="/new">
+                    <a className="dropdown-item" href="/new">
                       Another action
                     </a>
                   </li>
                   <li>
-                    <a class="dropdown-item" href="/new">
+                    <a className="dropdown-item" href="/new">
                       Something else here
                     </a>
                   </li>
                 </ul>
               </li>
             </ul>
-            <form class="d-flex">
+            <form className="d-flex">
               <input
-                class="form-control me-2"
+                className="form-control me-2"
                 type="search"
                 placeholder="Search"
                 aria-label="Search"
               />
-              <button class="btn btn-outline-success" type="submit">
+              <button className="btn btn-outline-success" type="submit">
                 Search
               </button>
             </form>
