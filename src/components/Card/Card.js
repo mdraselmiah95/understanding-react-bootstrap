@@ -5,7 +5,7 @@ const Card = (props) => {
   const { name, img, dis } = props.item;
   return (
     <div className="col rounded">
-      <div className="card">
+      <div className="card p-2">
         <img
           src={img}
           className="card-img-top img-fluid"
