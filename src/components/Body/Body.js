@@ -6,52 +6,62 @@ const Body = () => {
     {
       name: "Actress One",
       dis: "Nora Fatehi is a Canadian dancer, model, actress, singer, and producer who is known for her work in the Indian film industry. She has appeared in Hindi, Telugu, Malayalam and Tamil language films",
-      img: "https://www.easterneye.biz/wp-content/uploads/2021/07/GettyImages-1156688588-scaled.jpg",
+      img: "https://www.bollywoodhungama.com/wp-content/uploads/2016/03/Nora-Fatehi-3-10.jpg",
     },
     {
       name: "Actress One",
       dis: "Nora Fatehi is a Canadian dancer, model, actress, singer, and producer who is known for her work in the Indian film industry. She has appeared in Hindi, Telugu, Malayalam and Tamil language films",
-      img: "https://www.easterneye.biz/wp-content/uploads/2021/07/GettyImages-1156688588-scaled.jpg",
+      img: "https://www.bollywoodhungama.com/wp-content/uploads/2016/03/Nora-Fatehi-2-12.jpg",
     },
     {
       name: "Actress One",
       dis: "Nora Fatehi is a Canadian dancer, model, actress, singer, and producer who is known for her work in the Indian film industry. She has appeared in Hindi, Telugu, Malayalam and Tamil language films",
-      img: "https://www.easterneye.biz/wp-content/uploads/2021/07/GettyImages-1156688588-scaled.jpg",
+      img: "https://www.bollywoodhungama.com/wp-content/uploads/2016/03/Nora-Fatehi-2-9.jpg",
     },
     {
       name: "Actress One",
       dis: "Nora Fatehi is a Canadian dancer, model, actress, singer, and producer who is known for her work in the Indian film industry. She has appeared in Hindi, Telugu, Malayalam and Tamil language films",
-      img: "https://www.easterneye.biz/wp-content/uploads/2021/07/GettyImages-1156688588-scaled.jpg",
+      img: "https://im.indiatimes.in/content/itimes/photo/2015/Dec/9/1449653773-nora-fatehi-sexy-back.jpg?w=1310&h=864&cc=1",
     },
     {
       name: "Actress One",
       dis: "Nora Fatehi is a Canadian dancer, model, actress, singer, and producer who is known for her work in the Indian film industry. She has appeared in Hindi, Telugu, Malayalam and Tamil language films",
-      img: "https://www.easterneye.biz/wp-content/uploads/2021/07/GettyImages-1156688588-scaled.jpg",
+      img: "https://www.bollywoodhungama.com/wp-content/uploads/2016/03/Nora-Fatehi.jpg",
     },
     {
       name: "Actress One",
       dis: "Nora Fatehi is a Canadian dancer, model, actress, singer, and producer who is known for her work in the Indian film industry. She has appeared in Hindi, Telugu, Malayalam and Tamil language films",
-      img: "https://www.easterneye.biz/wp-content/uploads/2021/07/GettyImages-1156688588-scaled.jpg",
+      img: "https://www.bollywoodhungama.com/wp-content/uploads/2016/03/Nora-Fatehi-01104-4.jpg",
     },
     {
       name: "Actress One",
       dis: "Nora Fatehi is a Canadian dancer, model, actress, singer, and producer who is known for her work in the Indian film industry. She has appeared in Hindi, Telugu, Malayalam and Tamil language films",
-      img: "https://www.easterneye.biz/wp-content/uploads/2021/07/GettyImages-1156688588-scaled.jpg",
+      img: "https://www.bollywoodhungama.com/wp-content/uploads/2016/03/Nora-Fatehi-16.jpg",
     },
     {
       name: "Actress One",
       dis: "Nora Fatehi is a Canadian dancer, model, actress, singer, and producer who is known for her work in the Indian film industry. She has appeared in Hindi, Telugu, Malayalam and Tamil language films",
-      img: "https://www.easterneye.biz/wp-content/uploads/2021/07/GettyImages-1156688588-scaled.jpg",
+      img: "https://www.bollywoodhungama.com/wp-content/uploads/2016/03/Nora-Fatehi-1-7.jpg",
     },
     {
       name: "Actress One",
       dis: "Nora Fatehi is a Canadian dancer, model, actress, singer, and producer who is known for her work in the Indian film industry. She has appeared in Hindi, Telugu, Malayalam and Tamil language films",
-      img: "https://www.easterneye.biz/wp-content/uploads/2021/07/GettyImages-1156688588-scaled.jpg",
+      img: "https://www.bollywoodhungama.com/wp-content/uploads/2016/03/Nora-Fatehi-00-1.jpg",
     },
     {
       name: "Actress One",
       dis: "Nora Fatehi is a Canadian dancer, model, actress, singer, and producer who is known for her work in the Indian film industry. She has appeared in Hindi, Telugu, Malayalam and Tamil language films",
-      img: "https://www.easterneye.biz/wp-content/uploads/2021/07/GettyImages-1156688588-scaled.jpg",
+      img: "https://www.bollywoodhungama.com/wp-content/uploads/2016/03/Nora-Fatehi2-3.jpg",
+    },
+    {
+      name: "Actress One",
+      dis: "Nora Fatehi is a Canadian dancer, model, actress, singer, and producer who is known for her work in the Indian film industry. She has appeared in Hindi, Telugu, Malayalam and Tamil language films",
+      img: "https://www.bollywoodhungama.com/wp-content/uploads/2016/03/Nora-Fatehi-2-6.jpg",
+    },
+    {
+      name: "Actress One",
+      dis: "Nora Fatehi is a Canadian dancer, model, actress, singer, and producer who is known for her work in the Indian film industry. She has appeared in Hindi, Telugu, Malayalam and Tamil language films",
+      img: "https://www.bollywoodhungama.com/wp-content/uploads/2016/03/Nora-Fatehi-9-1.jpg",
     },
   ];
   return (

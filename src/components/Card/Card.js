@@ -6,7 +6,12 @@ const Card = (props) => {
   return (
     <div className="col rounded">
       <div className="card">
-        <img src={img} className="card-img-top" alt="..." />
+        <img
+          src={img}
+          className="card-img-top img-fluid"
+          alt="..."
+          style={{ height: "350px" }}
+        />
         <div className="card-body">
           <h5 className="card-title">{name}</h5>
           <p className="card-text">{dis}</p>
